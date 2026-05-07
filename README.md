@@ -1,4 +1,4 @@
-# A/B Testing for Landing Page Optimization
+# A/B Testing Analysis: Impact of New Landing Page on User Conversion (294K Sessions)
 
 ## Overview
 This project analyzes whether a **new landing page improves user conversion rates** compared to the existing page using **A/B testing**. The dataset contains ~294K user sessions with information about page versions and conversion outcomes.
