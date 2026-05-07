@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # A/B Testing Analysis: Impact of New Landing Page on User Conversion (294K Sessions)
 
 # A/B Testing for Landing Page Optimization
