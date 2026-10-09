@@ -3,7 +3,6 @@
 # A/B Testing for Landing Page Optimization
 ## Problem Statement
 
-
 This project evaluates whether a new landing page improves user conversion compared to the existing page using A/B testing on ~290K user sessions.
 
 The goal is to make a data-driven decision using statistical analysis.
