@@ -28,25 +28,7 @@ Control group users saw the old landing page, and treatment group users saw the 
 
 The objective was to compare conversion rates between the two groups.
 
-# Metrics Used
 
-Primary metric:Conversion Rate
-
-
-Secondary metric:Daily conversion trend
-
-Guardrail metrics (not available in data but important in real experiments):
-
-Bounce rate
-Page load time
-Errors or crashes
-Data Quality Check
-
-A validation check was performed to ensure correct mapping between group and landing page.
-
-Mismatch rows found: 3893
-
-These rows were removed to maintain experiment integrity.
 
 # Key Results
 
